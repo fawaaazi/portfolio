@@ -1,0 +1,31 @@
+.AboutMe{
+    font-weight: bold;
+    font-family: lexend deca;
+    font-size: xx-large;
+    color: #fff; 
+    margin-left: 5em;  
+}
+.me{
+    font-weight: bold;
+    font-family: lexend deca;
+    font-size: xx-large;
+    color: #EAB308;   
+}
+.header-class{
+    background-color:black;
+}
+.navbar-brand{
+    color: #fff;
+    font-weight: bold;
+    font-family: lexend deca;
+}
+.navbar{
+    height: 9em;
+    background-color:black;
+    margin-left: 11em;
+}
+.nav-link{
+    color: #6B7280;
+    font-family: lexend deca;
+    font-weight: bold;
+}
